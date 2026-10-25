@@ -1,5 +1,5 @@
 {
-  "name": "@awayjs/graphics",
+  "name": "@afterswf/graphics",
   "version": "0.5.101",
   "description": "AwayJS graphics classes",
   "main": "bundle/awayjs-graphics.umd.js",
