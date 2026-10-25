@@ -48,7 +48,7 @@
   },
   "peerDependencies": {
     "@awayjs/core": "^0.9.0",
-    "@awayjs/renderer": "^0.11.0",
+    "@awayjs/renderer": "npm:@afterswf/renderer@^0.11.99",
     "@awayjs/stage": "^0.11.0",
     "@awayjs/view": "^0.6.0",
     "tslib": "^2.3.0"
